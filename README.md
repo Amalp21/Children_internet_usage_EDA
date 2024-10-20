@@ -1,5 +1,6 @@
 # Children_internet_usage_EDA
 
+![image](https://github.com/user-attachments/assets/0a6760da-cc48-4b59-bd93-f69c2f2bb39e)
 
 In today’s digital age, problematic internet use among children and adolescents is a growing concern. Better understanding this issue is crucial for addressing mental health problems such as depression and anxiety.
 
